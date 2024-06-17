@@ -14,7 +14,8 @@
 
 <h1>How to use</h1>
 
-![image](https://github.com/FernandoBohlhalter/Youtube_Downloader/assets/82450429/baca3d14-9081-4e38-a77a-ee264264bf92)
+![image](https://github.com/FernandoBohlhalter/Youtube_Downloader/assets/82450429/6e6b68c8-655d-4da5-b207-b339ade2d9d2)
+
 
 
 <ul>
