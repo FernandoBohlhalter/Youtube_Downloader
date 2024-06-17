@@ -14,6 +14,9 @@
 
 <h1>How to use</h1>
 
+![image](https://github.com/FernandoBohlhalter/Youtube_Downloader/assets/82450429/baca3d14-9081-4e38-a77a-ee264264bf92)
+
+
 <ul>
 <li>If you want to use this downloader to download a video, the first thing you will need to do is download the files.</li>
 <li>After you've done that you just need to launch the .exe file. </li>
