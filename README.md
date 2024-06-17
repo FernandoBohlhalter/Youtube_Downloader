@@ -14,4 +14,13 @@
 
 <h1>How to use</h1>
 
+<ul>
+<li>If you want to use this downloader to download a video, the first thing you will need to do is download the files.</li>
+<li>After you've done that you just need to launch the .exe file. </li>
+<li>Now, you will need the link of the youtube video you want to download</li>
+<li>Paste the link on the insert link box and press OK.</li>
+<li>Wait the resolution to load and choose the preferred one</li>
+<li>Wait until the download is complete and enjoy the video you just downloaded.</li>
+</ul>
+
 <h1 align="left">Requirements</h1>
