@@ -24,3 +24,14 @@
 </ul>
 
 <h1 align="left">Requirements</h1>
+
+<h3>If you are a user</h3>
+<h4>If you just want to download youtube videos, the only thing you will need is to download the files</h4>
+
+<h3>If you are a dev</h3>
+<ul>
+  <li>Python</li>
+  <li>PyTube - lib</li>
+  <li>tkinter - lib</li>
+  <li>customtkinter - lib</li>
+</ul>
