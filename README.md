@@ -14,9 +14,7 @@
 
 <h1>How to use</h1>
 
-![image](https://github.com/FernandoBohlhalter/Youtube_Downloader/assets/82450429/6e6b68c8-655d-4da5-b207-b339ade2d9d2)
-
-
+![image](https://github.com/FernandoBohlhalter/Youtube_Downloader/assets/82450429/f500cd85-56ae-4328-91cc-a2b867e8db66)
 
 <ul>
 <li>If you want to use this downloader to download a video, the first thing you will need to do is download the files.</li>
